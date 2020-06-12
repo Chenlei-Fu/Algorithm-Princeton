@@ -6,6 +6,6 @@ Client program Permutation.java that takes an integer k as a command-line argume
 ~/Desktop/queues> cat distinct.txt
 ~/Desktop/queues> java-algs4 Permutation 3 < distinct.txt
 ~/Desktop/queues> java-algs4 Permutation 3 < distinct.txt
-cat duplicates.txt
+~/Desktop/queues> cat duplicates.txt
 ~/Desktop/queues> java-algs4 Permutation 8 < duplicates.txt
 ```
